@@ -34,8 +34,8 @@ foreach ($activities as $record) {
 <html>
     <head>
         <title>Agent Desktop</title>
-        <link rel="icon" href="/favicon.ico" type="image/x-icon">    
-        <link rel="shortcut icon" href="custom//favicon.ico" type="image/x-icon">
+        <link rel="icon" href="/ShieldFavicon.png" type="image/x-icon">    
+        <link rel="shortcut icon" href="custom//ShieldFavicon.png" type="image/x-icon">
         <script type="text/javascript" src="//media.twiliocdn.com/sdk/js/client/v1.4/twilio.min.js"></script>
         <script type="text/javascript" src="//media.twiliocdn.com/taskrouter/js/v1.10/taskrouter.min.js"></script>
         <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
