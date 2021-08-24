@@ -27,7 +27,7 @@ foreach ($activities as $record) {
     <head>
         <meta charset="UTF-8">
         <title>Agent List</title>
-        <link rel="icon" href="custom//favicon.ico" type="image/x-icon">    
+        <link rel="icon" href="custom//ShieldFavicon.png" type="image/x-icon">    
         <link rel="shortcut icon" href="custom//favicon.ico" type="image/x-icon">
         <link href="custom/agentapp.css" rel="stylesheet"/>
     </head>
