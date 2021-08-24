@@ -15,27 +15,12 @@ ca<!DOCTYPE html>
             <h3 style="padding-top: 30px;">Call Center Flow</h3>
             <img src="custom/CallCenterFlow.jpg" alt="Call Center Flow" style="border: solid 3px;"/>
             <br/>
-            <h2>Specifications</h2>
+            <h2>Instructions</h2>
             <ol>
-                <li>A Twilio phone number is configured with an IVR.</li>
-                <li>The IVR receives incoming callers, says a message, and adds the caller into a TaskRouter managed TaskQueue.
-                    <br/>While in the queue, callers listen to music.</li>
-                <li>There is a single TaskRouter Workspace:
-                    <ol>
-                        <li>One TaskQueue</li>
-                        <li>One Workflow</li>
-                        <li>Worker agents</li>
-                        <li>Agent Client call Activities, for example: offline, idle (available), and busy.</li>
-                    </ol>
-                </li>
-                <li>Agents connect to the Agent Application with their web browser and set their status activity to idle,
-                    which means they are available to receive calls.
-                    <br/>About the application:
-                    <ol>
-                        <li>It can either be deployed to Heroku, run on a localhost computer, or any other computer which is PHP enabled.</li>
-                        <li>The application is a simplified version of the Twilio Call Center training course application.</li>
-                    </ol>
-                </li>
+                <li>To get started, click the "Agent List" button at the top of this page</li>
+                <li>Find your name from the selection, set your availability, and wait for an incoming call</li>
+                <li>When you leave, or step away from your desk, make sure to set youself as unavailable</li>
+                <li>At the end of each call you will be placed back into the unavailable status, you MUST set yourself back to "Available" inorder to receive the next call</li>
             </ol>
         </div>
         <script type="text/javascript" src="custom/pageBottom.js"></script>
