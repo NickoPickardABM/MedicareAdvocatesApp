@@ -1,6 +1,4 @@
-# Owl Contact Center Version 2
-
-<img src="custom/CallCenterFlow.jpg"/>
+# Medicare Advocates Call Center
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tigerfarm/owlcc)
 
