@@ -1,5 +1,5 @@
 {
-  "name": "Owl Call Center Application",
+  "name": "Medicare Advocates Call Center Application",
   "description": "A PHP web application using Twilio TaskRouter.",
   "repository": "https://github.com/tigerfarm/OwlCc",
   "logo": "http://tigerfarmpress.com/images/topImgLeft.jpg",
